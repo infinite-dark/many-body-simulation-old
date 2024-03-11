@@ -26,6 +26,10 @@ The code is very old (about three years). Basically - it's terrible. It's a comp
 
 ---
 
+![Screenshot from 2024-03-11 21-53-33](https://github.com/infinite-dark/many-body-simulation-old/assets/126886852/06060947-e99d-493b-bcc0-8ef970506d3d)
+
+---
+
 Copyright Notice - Important
 ---
 Please note, while I strive to respect all legal obligations, I am not a legal expert and therefore I am unable to properly address the licensing and other legal issues potentially concerning this repo.

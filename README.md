@@ -40,6 +40,8 @@ Please note, while I strive to respect all legal obligations, I am not a legal e
   - Property and Rights: I do not own any rights to the used libraries or other software components (in part or as a whole) used in this project. I did not create and do not have any rights to the graphical elements (the images in the resources folder). All graphical elements were obtained through various stock-like websites (especially the ones used to share or sell icons).
   - Usage: The software is NOT INTENDED for use in any way WHATSOEVER. I do NOT provide any warranty for the software and disclaim any liability for its use.
 
+Please contact me prior to taking any legal action if you feel that I voilated your copyrights.
+
 My intention for publishing this project on GitHub was purely technical - to share the code without resorting to manually adding project collaborators. The problem is that GitHub doesn't allow for "unlisted" repositories in the same way as, for example, YouTube allows for "unlisted" videos. I'm therefore forced to publish the repo even if I do not want to do that whatsoever (especially considering the legal issues).
 
 No copyright or intellectual property infringement is intended.

@@ -1,0 +1,14 @@
+QPushButton#menuButton {
+background-color: #181818;
+border: 1px solid black;
+}
+
+QPushButton#menuButton::hover
+{
+border: 5px solid #00770D;
+}
+
+QPushButton#menuButton::pressed
+{
+background-color: #313131;
+}

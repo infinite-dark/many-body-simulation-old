@@ -1,0 +1,60 @@
+QListWidget
+{
+background-color: #222222;
+border: 1px solid black;
+}
+
+QListWidget::hover
+{
+background-color: #292929;
+}
+
+QPushButton, QLabel, QListWidget#fileList
+{
+border: 1px solid #00770D;
+background-color: black;
+font: 20px Arial;
+color: #00770D;
+}
+
+QPushButton::hover
+{
+border: 1px solid #00770D;
+background-color: #00770D;
+color: black;
+}
+
+QPushButton::pressed
+{
+background-color: #00990D;
+}
+
+QLabel
+{
+border: none;
+}
+
+QLineEdit
+{
+border: 2px solid black;
+background-color: #222222;
+font: 24px Arial;
+color: #00770D;
+}
+
+QLineEdit::hover
+{
+background-color: #292929;
+}
+
+QCheckBox
+{
+border: none;
+font: 24px Arial;
+color: #00770D;
+}
+
+QWidget#fileSelector
+{
+border: 1px solid #00770D;
+}
